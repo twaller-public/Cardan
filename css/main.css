@@ -1,0 +1,563 @@
+/*Cardan Contracting CSS Styles*/
+body{
+	
+	color:black;
+	/*min-width:400px;*/
+	overflow-x:hidden;
+}
+
+
+.contact-link{
+	cursor:pointer;
+}
+
+
+header{
+	margin-top:30px;
+}
+
+div.top-bar{
+	
+	margin-bottom:25px;
+}
+
+div.top-bar > div{
+	
+	padding:0 0px 0 0px;
+}
+
+
+div.top-bar .home-link{
+	color:black;
+}
+
+div.top-bar .home-link a:link, div.top-bar .home-link a:visited, div.top-bar .home-link a:hover, div.top-bar .home-link a:active, {
+	color:black;
+}
+
+div.logo-wrap{
+		
+	min-height:100px;
+}
+
+
+span.logo-wrap{
+	float: left;
+    margin-right: 15px;
+}
+
+span.name-wrap{
+	padding-top: 30px;
+    float: left;
+}
+
+
+span#name_1{
+	font-size:35px;
+	font-weight:900;
+	text-transform:uppercase;
+	line-height: 0.8;
+	
+}
+
+
+span#name_2{
+	font-size:19px;
+	font-weight:900;
+	text-transform:uppercase;
+	padding-left:4px;
+}
+
+
+p.office-list{
+	
+	padding-top:15px; 
+	font-size:19px;
+}
+
+
+span.email-link{
+	
+	font-weight:normal;
+}
+
+
+
+nav.navbar-default{
+	background-image: none;
+    box-shadow: none;
+    background-color: white;
+    border: none;
+    font-size: 16px;
+	margin-bottom:5px;
+	min-height:0px;
+}
+
+nav.navbar-default a{
+	padding:0px 9px;
+	display:inline-block;
+	font-size:19px;
+}
+
+
+
+ul.navbar-nav{
+	float:none !important;
+	display:inline-block;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: black;
+}
+
+
+.dropdown-menu>li{
+	padding:8px 0;
+}
+
+.dropdown-menu>li>a:link, 
+.dropdown-menu>li>a:visited, 
+.dropdown-menu>li>a:focus, 
+.dropdown-menu>li>a:hover,
+.dropdown-menu>li>a:active {
+	background-image:none;
+	width:100%;
+}
+
+
+body > div.container-fluid{
+	padding:0px;
+	font-size:20px;
+	line-height:30px;
+}
+
+body > div.container-fluid ul {
+    /*list-style-position: inside;*/
+}
+
+
+body > div.container-fluid h1{
+	
+	background-color:#ed6d00;
+	color:white;
+	font-size:36px;
+	font-style:italic;
+	font-weight:600;
+	text-align:center;
+	padding:15px 0px;
+	margin:0px;
+}
+
+body > div.container-fluid h2, 
+footer > div.container-fluid h2, 
+body > div.container-fluid h3{
+	font-weight:700;
+	color: #ed6d00;
+}
+
+body > div.container-fluid p, body > div.container-fluid li{
+	/*font-weight:700;*/
+	font-weight:normal;
+}
+
+body > div.container-fluid > div{
+	padding:15px 0px;
+}
+
+
+
+div#imgModal div.modal-content{
+	background-color:rgba(0,0,0,0.4);
+}
+div#imgModal .modal-header{
+	border:none;
+}
+
+div#imgModal .modal-body{
+	padding:15px 80px;
+}
+
+div#imgModal .close{
+	opacity:1.0;
+	color:white;
+}
+
+
+div#imgModal div.arrow{
+	z-index:1000;
+	font-size:80px;
+	color:#fff;
+	background-color:rgba(0,0,0,0.5);
+	font-weight:800;
+	position:absolute;
+	padding:15px;
+	border-radius:50%;
+	cursor:pointer
+}
+
+div#imgModal div.arrow-right{
+	top:40%;
+	right:0;
+}
+
+div#imgModal div.arrow-left{
+	top:40%;
+	left:0;
+}
+
+
+button.cardan-btn{
+	background-color:#dadada;
+}
+
+table.table{
+	width:auto !important;
+}
+
+table.table td{
+	border-color:#fff;
+	border:none !important;
+}
+
+.img-responsive{
+	
+	display:inline-block !important;
+	margin:auto !important;
+}
+
+table .img-responsive{
+	
+	display:block !important;
+}
+
+
+
+div.acc-record{
+	
+	margin:30px 0px;
+}
+
+
+div.acc-record a.acc-rm{
+	
+	font-size:18px;
+	font-weight:bold;
+}
+
+div.acc-hidden{
+	margin-top:10px;
+}
+
+
+
+ul.sidedrop-menu{
+	background-color:white;
+	position:absolute;
+	left:90%;
+	top: 5px;
+    list-style-type: none;
+    padding-left: 8px;
+	border: 1px solid rgba(0,0,0,.15);
+    border-radius: 4px;
+	-webkit-box-shadow: 0 6px 12px rgba(0,0,0,.175);
+    box-shadow: 0 6px 12px rgba(0,0,0,.175);
+}
+
+ul.sidedrop-menu li a{
+	color:black;
+	padding:8px 14px;
+}
+
+
+
+
+
+
+div.sub-content ul{
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+div.sub-content ul li {
+  padding-left: 1em; 
+  text-indent: -.7em;
+}
+
+div.sub-content ul li::before {
+  content: "• ";
+  color: #ed6d00; /* or whatever color you prefer */
+}
+
+
+
+
+
+
+div.gallery .row{
+	margin-bottom:16px;
+}
+
+
+
+
+footer{}
+
+footer .quote-bar{
+	background-color:#dadada;
+	padding:0 35px;
+}
+
+
+footer .contact-prompt{
+	font-size:18px;
+	font-weight:bold;
+}
+
+footer .contact-prompt a:link, 
+footer .contact-prompt a:visited, 
+footer .contact-prompt a:hover, 
+footer .contact-prompt a:active {
+	
+	text-decoration:underline;
+	color:black;
+}
+
+
+footer .bottom-bar{
+	background:#454545;
+	font-size:16px;
+}
+
+footer div.bottom-bar > div > div > div{
+	float:left !important;
+}
+
+
+footer div.bottom-bar div.links > span:nth-child(odd){
+	float:left;
+}
+
+footer div.bottom-bar div.links > span:nth-child(even){
+	float:right;
+}
+
+
+footer div.bottom-bar div.links > span:nth-child(1), footer div.bottom-bar div.links > span:nth-child(2){
+	padding:15px 0 10px 0;
+}
+
+
+footer .office-line .phone-link{
+	color:#FFF;
+}
+
+
+footer .contact-link{
+	
+	text-decoration:underline;
+}
+
+
+footer .contact-wrap{
+	
+	padding:8px 100px; 
+	color:white;
+}
+
+
+
+div.nav-wrap{
+	min-width:845px;
+}
+
+@media screen and (max-width: 1091px) {
+	body > div.container-fluid > div{
+		padding:20px 30px;
+	}
+}
+
+
+@media screen and (max-width: 991px) {
+	div.top-bar > div {
+		padding: 0 50px 0 50px;
+	}
+}
+
+
+
+@media screen and (max-width: 901px) {
+	span.menu-break{
+		display:none;
+	}
+	
+	.navbar-header {
+        float: none;
+    }
+    .navbar-left,.navbar-right {
+        float: none !important;
+    }
+    .navbar-toggle {
+		float:right;
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-fixed-top {
+        top: 0;
+        border-width: 0 0 1px;
+    }
+    .navbar-collapse.collapse {
+        display: none!important;
+    }
+    ul.navbar-nav {
+        float: right!important;
+        margin-top: 7.5px;
+		text-align:right;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .collapse.in{
+        display:inline-block !important;
+		float:right;
+    }
+	
+	ul.dropdown-menu {
+		position: static;
+		float: none;
+		width: auto;
+		margin-top: 0;
+		background-color: transparent;
+		border: 0;
+		box-shadow: none;
+		max-width:300px;
+		text-align:right;
+	}
+	
+	ul.dropdown-menu{
+		
+		display:block;
+	}
+	
+	footer div.bottom-bar span.office-line, footer div.bottom-bar .links > span.contact-link{
+		
+		display:block !important;
+		padding:5px !important;
+		float:none !important;
+		text-align:right;
+	}
+	
+	div.nav-wrap{
+		min-width:0px;
+	}
+	
+	
+	div.sub-content table td{
+		width:100%;
+	}
+}
+
+
+@media screen and (max-width: 767px) {
+	span.logo-wrap, span.name-wrap{ float:right; }
+	
+	span.logo-wrap{
+		margin-right:0;
+		margin-left:30px;
+		
+	}
+	
+	p.office-list{
+		
+		padding-top:40px; 
+	}
+	
+	
+	div.gallery .row{
+		margin-bottom:0px;
+	}
+	
+	div.gallery .img-wrap{
+		margin-bottom:16px;
+	}
+	
+	div#imgModal div.arrow {
+		font-size: 30px;
+	}
+}
+
+
+@media screen and (max-width: 614px) {
+	
+	/*footer content needs to go right*/
+	footer div.bottom-bar > div > div > div{
+		float:right !important;
+	}
+	
+	body > div.container-fluid li{
+		margin-bottom:10px;
+	}
+	
+}
+
+@media screen and (max-width: 600px) {
+	
+	div.top-bar > div{
+	
+		padding:0 30px 0 30px;
+	}
+	
+	
+	
+	h1{
+		font-size:26px !important;
+	}
+	
+	
+	
+}
+
+
+@media screen and (max-width: 430px) {
+
+	div.office-wrap{
+		padding:0px;
+	}
+	
+	
+	p.office-list{
+		
+		font-size:14px;
+	}
+	
+	footer .contact-wrap{
+	
+		padding:8px 0px; 
+	}
+}
+
+
+
+@media screen and (max-width: 400px) {
+	div.logo-wrap{
+		
+		/*min-height:200px;*/
+	}
+	
+	span.logo-wrap{
+		
+		margin-left:-50px;
+	}
+	
+	img.logo-img{
+		height:100px;
+	}
+
+}

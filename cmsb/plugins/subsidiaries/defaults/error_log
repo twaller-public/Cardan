@@ -1,0 +1,12 @@
+[08-May-2018 14:40:19 UTC] PHP Notice:  Undefined index: SUBSIDIARIES in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:40:19 UTC] PHP Warning:  require(): Filename cannot be empty in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:40:19 UTC] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:41:11 UTC] PHP Notice:  Undefined index: SUBSIDIARIES in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:41:11 UTC] PHP Warning:  require(): Filename cannot be empty in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:41:11 UTC] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:46:28 UTC] PHP Notice:  Undefined index: SUBSIDIARIES in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:46:28 UTC] PHP Warning:  require(): Filename cannot be empty in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:46:28 UTC] PHP Fatal error:  require(): Failed opening required '' (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 2
+[08-May-2018 14:49:44 UTC] PHP Notice:  Undefined variable: _SEVER in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 6
+[08-May-2018 14:49:44 UTC] PHP Warning:  include_once(/cmsb/lib/viewer_functions.php): failed to open stream: No such file or directory in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 7
+[08-May-2018 14:49:44 UTC] PHP Warning:  include_once(): Failed opening '/cmsb/lib/viewer_functions.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/defaults/page.php on line 7

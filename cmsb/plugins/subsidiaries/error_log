@@ -1,0 +1,6 @@
+[02-May-2018 01:35:29 UTC] PHP Deprecated:  Comments starting with '#' are deprecated in /home/cardancontract/public_html/cmsb/.user.ini on line 30 in Unknown on line 0
+[02-May-2018 01:35:29 UTC] PHP Fatal error:  Call to undefined function inCLI() in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/subsidiaries.php on line 10
+[02-May-2018 01:35:51 UTC] PHP Deprecated:  Comments starting with '#' are deprecated in /home/cardancontract/public_html/cmsb/.user.ini on line 30 in Unknown on line 0
+[02-May-2018 01:35:51 UTC] PHP Fatal error:  Call to undefined function inCLI() in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/subsidiaries.php on line 10
+[02-May-2018 01:35:52 UTC] PHP Deprecated:  Comments starting with '#' are deprecated in /home/cardancontract/public_html/cmsb/.user.ini on line 30 in Unknown on line 0
+[02-May-2018 01:35:52 UTC] PHP Fatal error:  Call to undefined function inCLI() in /home/cardancontract/public_html/cmsb/plugins/subsidiaries/subsidiaries.php on line 10
